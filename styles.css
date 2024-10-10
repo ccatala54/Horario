@@ -1,0 +1,55 @@
+table {
+    margin: 10%;
+    text-align: center;
+    background-color: black;
+    width: 80%;
+    border: 1px solid white;
+
+}
+
+th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    color: white;
+    font-size: 15px;
+    padding: 15px; 
+
+}
+
+#horas{
+    font-weight: bold;
+    font-size: 12px;
+    font-family: monospace;
+    padding: 15px; 
+    border: 1px solid white;
+    
+
+}
+
+#patio{
+    background-color: rgb(224, 138, 138);
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 14px;
+    padding: 15px; 
+    border: 1px solid white; 
+
+}
+
+#diw{
+    background-color: rgb(126, 181, 199);
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 14px;
+    padding: 15px; 
+    border: 1px solid white; 
+}
+
+#pro{
+    background-color: rgb(178, 89, 201);
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 14px;
+    padding: 15px; 
+    border: 1px solid white; 
+}
